@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dobles/Dobles.iml" filepath="$PROJECT_DIR$/Dobles/Dobles.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Listas-dobles.iml" filepath="$PROJECT_DIR$/.idea/Listas-dobles.iml" />
     </modules>
   </component>
